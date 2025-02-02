@@ -23,5 +23,5 @@ SpringSection is a demo project built with Spring Boot, showcasing the integrati
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SpringSection.git
+   git clone https://github.com/Daniikur/SpringSection.git
    cd SpringSection
